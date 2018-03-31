@@ -32,4 +32,4 @@ Kullanıcı istek alır, Controller da değerlendirilir ve kullanıcıya sonuç 
 
 **4. Request -> Controller -> Model -> Responsive (User)**
 
-Kullanıcı istek alır. Controller a gelen istek yorumlandıktan sonra Model e gelir ve kullanıcıya sonuç yansır. JSON örnek olarak verilebilir.
+Kullanıcı istek alır. Controller a gelen istek yorumlandıktan sonra Model e gelir ve kullanıcıya sonuç yansır. JSON örnek olarak verilebilir
