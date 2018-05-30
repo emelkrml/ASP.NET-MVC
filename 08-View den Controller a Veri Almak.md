@@ -1,4 +1,4 @@
-**View den Controllaer a Veri Almak**
+**View den Controller a Veri Almak**
 ================================
 
 Bazen gerçekleştirilen işlemlere göre View de girilen verinin alınarak Controller a getirilmesi ve buradan veritabanına kaydedilmesi (POST işlemleri gibi) ya da farklı işlemlerin gerçekleştirilmesi gerekebilir. Bu işlem için 2 yöntem uygulanır.
